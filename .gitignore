@@ -119,3 +119,9 @@ target/
 /ci/linux-packages/yum/merged/
 /ci/linux-packages/yum/repositories/
 /ci/linux-packages/yum/tmp/
+
+# PDM
+.pdm-python
+
+# Nix
+.direnx
